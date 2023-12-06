@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DevelopeGameAbout\\DevelopeTools\\Visual Studio 2022\\Program\\Promise\\Promise\\Promise.csproj": {}
+    "F:\\DevelopeGameAbout\\StudyProgram\\MyGitHub\\Promise\\Promise\\Promise.csproj": {}
   },
   "projects": {
-    "F:\\DevelopeGameAbout\\DevelopeTools\\Visual Studio 2022\\Program\\Promise\\Promise\\Promise.csproj": {
+    "F:\\DevelopeGameAbout\\StudyProgram\\MyGitHub\\Promise\\Promise\\Promise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DevelopeGameAbout\\DevelopeTools\\Visual Studio 2022\\Program\\Promise\\Promise\\Promise.csproj",
+        "projectUniqueName": "F:\\DevelopeGameAbout\\StudyProgram\\MyGitHub\\Promise\\Promise\\Promise.csproj",
         "projectName": "Promise",
-        "projectPath": "F:\\DevelopeGameAbout\\DevelopeTools\\Visual Studio 2022\\Program\\Promise\\Promise\\Promise.csproj",
+        "projectPath": "F:\\DevelopeGameAbout\\StudyProgram\\MyGitHub\\Promise\\Promise\\Promise.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "F:\\DevelopeGameAbout\\DevelopeTools\\Visual Studio 2022\\Program\\Promise\\Promise\\obj\\",
+        "outputPath": "F:\\DevelopeGameAbout\\StudyProgram\\MyGitHub\\Promise\\Promise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",

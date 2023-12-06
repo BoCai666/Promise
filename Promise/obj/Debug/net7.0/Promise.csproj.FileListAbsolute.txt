@@ -26,3 +26,17 @@ F:\DevelopeGameAbout\DevelopeTools\Visual Studio 2022\Program\Promise\Promise\ob
 F:\DevelopeGameAbout\DevelopeTools\Visual Studio 2022\Program\Promise\Promise\obj\Debug\net7.0\Promise.pdb
 F:\DevelopeGameAbout\DevelopeTools\Visual Studio 2022\Program\Promise\Promise\obj\Debug\net7.0\Promise.genruntimeconfig.cache
 F:\DevelopeGameAbout\DevelopeTools\Visual Studio 2022\Program\Promise\Promise\obj\Debug\net7.0\ref\Promise.dll
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\bin\Debug\net7.0\Promise.exe
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\bin\Debug\net7.0\Promise.deps.json
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\bin\Debug\net7.0\Promise.runtimeconfig.json
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\bin\Debug\net7.0\Promise.dll
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\bin\Debug\net7.0\Promise.pdb
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.AssemblyInfoInputs.cache
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.AssemblyInfo.cs
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.csproj.CoreCompileInputs.cache
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.dll
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\refint\Promise.dll
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.pdb
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\Promise.genruntimeconfig.cache
+F:\DevelopeGameAbout\StudyProgram\MyGitHub\Promise\Promise\obj\Debug\net7.0\ref\Promise.dll
