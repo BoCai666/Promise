@@ -1,4 +1,0 @@
-D:\Work\VisualStudio\Program\SocketStudy\Promise\obj\Release\net7.0\Promise.GeneratedMSBuildEditorConfig.editorconfig
-D:\Work\VisualStudio\Program\SocketStudy\Promise\obj\Release\net7.0\Promise.AssemblyInfoInputs.cache
-D:\Work\VisualStudio\Program\SocketStudy\Promise\obj\Release\net7.0\Promise.AssemblyInfo.cs
-D:\Work\VisualStudio\Program\SocketStudy\Promise\obj\Release\net7.0\Promise.csproj.CoreCompileInputs.cache
