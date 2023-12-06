@@ -1,0 +1,14 @@
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\bin\Debug\net6.0\Async_Await.exe
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\bin\Debug\net6.0\Async_Await.deps.json
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\bin\Debug\net6.0\Async_Await.runtimeconfig.json
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\bin\Debug\net6.0\Async_Await.dll
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\bin\Debug\net6.0\Async_Await.pdb
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfoInputs.cache
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfo.cs
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.csproj.CoreCompileInputs.cache
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.dll
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\refint\Async_Await.dll
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.pdb
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\Async_Await.genruntimeconfig.cache
+D:\Work\VisualStudio\Program\SocketStudy\Async_Await\obj\Debug\net6.0\ref\Async_Await.dll
