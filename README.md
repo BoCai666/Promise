@@ -1,13 +1,13 @@
-# 简介
-一个参考UniTask而实现的极简的异步方案，也是对Async/Await背后原理学习的一个记录。
-# Async/Await原理
-Async/Await与IEnumerator/YieldReturn类似，其标识的方法内部都会被编译器生成一个状态机，两者的状态机运行的方法命名都一致都是MoveNext，只是前者无返回值，后者有个bool返回值。  
+# Promise
+一个参考UniTask而实现的极简的异步方案，也是对async/await背后原理学习的一个记录。
+# async/await原理
+async/await与IEnumerator/yieldreturn类似，其标识的方法内部都会被编译器生成一个状态机，两者的状态机运行的方法命名都一致都是MoveNext，只是前者无返回值，后者有个bool返回值。  
 
 状态机内部通过int状态值来分割await/yieldreturn的代码段，执行状态机的MoveNext方法来逐步执行到所有被分割的代码段。
 
-Async/Await生成的状态机MoveNext方法通过回调调回调的形式往下执行，而IEnumerator/YieldReturn生成的状态机MoveNext方法需在循环中一直检测返回值后往下执行。
+async/await生成的状态机MoveNext方法通过回调调回调的形式往下执行，而IEnumerator/yieldreturn生成的状态机MoveNext方法需在循环中一直检测返回值后往下执行。
 
-# Async/Await示例
+# async/await示例
 ```csharp
 // 源码
 using System;
