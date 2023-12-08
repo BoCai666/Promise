@@ -7,7 +7,7 @@ async/await与IEnumerator/yieldreturn类似，其标识的方法内部都会被�
 
 async/await生成的状态机MoveNext方法通过回调调回调的形式往下执行，而IEnumerator/yieldreturn生成的状态机MoveNext方法需在循环中一直检测返回值后往下执行。
 
-# async/await示例
+# async/await生成代码
 ```csharp
 // 源码
 using System;
